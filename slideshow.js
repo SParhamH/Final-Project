@@ -40,3 +40,5 @@ function autoSlide(){
     
     
     setInterval(autoSlide,2000); // Next
+
+    
