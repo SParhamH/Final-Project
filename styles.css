@@ -142,3 +142,24 @@ input{
 #W3Shool{
     width: 600px;
 }
+
+.imgs img{
+    height: 380px;
+    width: 400px;
+}
+
+.transition-image{
+    position: absolute;
+    top: 455px;
+    left: 510px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.transition-image:hover {
+    opacity: 1;
+}
+
+#slide{
+    text-align: right;
+}
